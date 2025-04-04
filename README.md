@@ -13,8 +13,6 @@ This script sign ins, then randomly selects a product from the category and purc
 
 Runtime Settings were set to log only on errors and generate snapshot on errors, think times 75% to 150%
 
-There is a TruClient script that does the same steps
-
 This script has 8 transactions
 AOS-Web-S04-01 Access AOS URL
 AOS-Web-S04-02 Sign In
